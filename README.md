@@ -20,7 +20,7 @@
 
 **Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :** 
 
-👉 **[Tiki Wiki CMS Groupware sur phpsources.net](https://phpsources.net/script/php/crm/1012-3_tiki,29.1)**
+👉 **[Tiki Wiki CMS Groupware sur phpsources.net](https://phpsources.net/script/php/cms/1012-3_tiki,29.1)**
 
 ### Licence
 Distribué sous licence **LGPL**.
